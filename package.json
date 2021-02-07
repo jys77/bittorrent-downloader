@@ -1,0 +1,15 @@
+{
+  "name": "torrentdownloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Yunsheng Jiang",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^2.0.1",
+    "bigint-buffer": "^1.1.5"
+  }
+}
